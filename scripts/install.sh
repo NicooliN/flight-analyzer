@@ -7,7 +7,7 @@ echo "============================="
 if ! command -v java &> /dev/null; then
     echo "Установка Java..."
     sudo apt update
-    sudo apt install -y openjdk-11-jdk
+    sudo apt install -y openjdk-17-jdk
 fi
 
 # Проверка Maven

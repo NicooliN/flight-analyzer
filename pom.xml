@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jackson.version>2.15.2</jackson.version>
         <lombok.version>1.18.30</lombok.version>
-        <main.class>com.example.Main</main.class>
+        <main.class>Main</main.class>
     </properties>
 
     <dependencies>
